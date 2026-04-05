@@ -1,4 +1,4 @@
-from JulieAhmed_23011245 import SequentialFeatureSelector
+from wrapper_filteration_classFromScratch import SequentialFeatureSelector
 from sklearn.datasets import load_breast_cancer;
 from sklearn.linear_model import LogisticRegression;
 import pandas as pd
