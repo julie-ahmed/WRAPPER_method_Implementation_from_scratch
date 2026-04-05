@@ -3,3 +3,5 @@ this is a python Implementation of the Dimentionality Reduction feature filterat
 you will have the first file the class itself 
 the second file is the testing recalling file for the class 
 
+the criteria it is choosing by is the regression score you call the method and give it the param if you want it forward or backward and the max number of iterations you want and the number of features you want it to choose .
+
